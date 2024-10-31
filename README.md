@@ -8,6 +8,7 @@ Simple application to study C# unit tests
 | .NET Core         | 8.0         |
 | Entity Framework  | 8.0.8       |
 | MySQL             | 10.4.24     |
+| xUnit             | 2.5.3       |
 
 # Configuration instructions
 1) Install project dependencies
